@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+.listImagesContainer {
+  list-style: none;
+  margin: 10px;
+}
+.button {
+  cursor: pointer;
+  border-width: 0px;
+}
+.image {
+  width: 90px;
+  height: 90px;
+}
